@@ -1,0 +1,56 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings folder
+.vscode/
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite3
+
+# Ignore model files
+*.joblib
+*.pkl
+*.h5
+
+# Ignore compiled files
+*.exe
+*.dll
+*.out
+*.app
+
+# Ignore generated files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore test reports
+htmlcov/
+coverage.xml
+*.cover
+.cache
+nosetests.xml
+test-results/
+junit-*.xml
