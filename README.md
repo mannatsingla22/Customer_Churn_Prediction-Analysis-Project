@@ -66,10 +66,14 @@ Applied model to vw_JoinData
 Output stored as predictions.csv for Power BI use
 
 ## Snapshot of Dashboard (Power BI Service)
-Summary Page – The summary page provides a high-level view of overall churn trends. It includes KPIs like total customers, churn rate, new joiners, and trend charts. Slicers allow filtering by gender, geography, and contract type for deeper insight.
 
-![Summary Page](https://github.com/mannatsingla22/Customer-Churn-Prediction-Analysis-Project/blob/main/summary_page.png?raw=true)
+### Summary Page
+![Summary Page](summary_page.png)
 
-Prediction Page – This page displays customers predicted to churn based on the machine learning model. Users can filter by age, tenure, services, or payment method to identify high-risk profiles and plan targeted retention strategies.
+The summary page provides a high-level view of overall churn trends. It includes KPIs like total customers, churn rate, new joiners, and trend charts. Slicers allow filtering by gender, geography, and contract type for deeper insight.
 
-![Prediction Page](https://github.com/mannatsingla22/Customer-Churn-Prediction-Analysis-Project/blob/main/prediction_page.png?raw=true)
+### Prediction Page
+![Prediction Page](prediction_page.png)
+
+This page displays customers predicted to churn based on the machine learning model. Users can filter by age, tenure, services, or payment method to identify high-risk profiles and plan targeted retention strategies.
+
